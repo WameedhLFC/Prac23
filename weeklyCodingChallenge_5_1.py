@@ -21,4 +21,4 @@ print (y)
 # sum_odd_and_even([-1, -2, -3, -4, -5, -6]) ➞ [-12, -9])
 # sum_odd_and_even([0, 0]) ➞ [0, 0])
 # Notes
-# Count 0 as an even number.
+# Count 0 as an even number
