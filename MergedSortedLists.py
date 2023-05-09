@@ -3,6 +3,7 @@ flat = []
 for list in lists:
     for i in list:
         flat.append(i)
+flat.sort()
 print(flat)
 
 # 2) Mergek Sorted Lists
