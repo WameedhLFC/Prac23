@@ -29,6 +29,7 @@ print(flat)
 # Input: lists = [[]]
 # Output: []
 
+
 # Constraints:
 # k == lists.length
 # 0 <= k <= 104
