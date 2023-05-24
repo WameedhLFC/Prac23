@@ -5,9 +5,7 @@ for i in range(int(T)):
 for S in A:
     counter = 0
     for j in S:
-        # print(j)
         if j.isnumeric() == True:
-            # print(j)
             counter += int(j)
     print(counter)
 ###############################################################################################################################################
