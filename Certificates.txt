@@ -1,0 +1,53 @@
+﻿- I have received the following Udemy certificates recently:
+
+QlikSense Visualizations Masterclass
+Issued On : Dec 22, 2022
+Online Transcript : https://www.udemy.com/certificate/UC-d39cbaa1-ea4b-4036-a5b1-afa80927be27/
+
+Certificate in Qlik Sense Analytics Development
+Issued On : Dec 23, 2022
+Online Transcript : https://www.udemy.com/certificate/UC-294ac808-ef00-4ec0-8424-1a543996a1bd/
+
+Informatica PowerCenter - Beginner to Expert Level
+Issued On : Oct 21, 2022
+Online Transcript : https://www.udemy.com/certificate/UC-482f9aab-e34e-4463-a41f-3bb9213cd022/
+
+Snowflake[A-Z] Zero to Hero Masterclass(Core+SQL+API+Visual)
+Issued On : Dec 17, 2022
+Online Transcript : https://www.udemy.com/certificate/UC-565803c7-da80-414a-ac8b-7d6006cc9d2e/
+
+The Python Bible™ | Everything You Need to Program in Python
+Issued On : Nov 27, 2022
+Online Transcript : https://www.udemy.com/certificate/UC-03155748-4cb7-4eb6-94d0-99e0d4852ba8/
+
+Microsoft SQL from A to Z
+Issued On : Dec 20, 2022
+Online Transcript : https://www.udemy.com/certificate/UC-5ef5fbcc-34f7-4a54-8099-0058db2dee33/
+
+The Complete SQL Bootcamp: Go from Zero to Hero
+Issued On : Dec 21, 2022
+Online Transcript : https://www.udemy.com/certificate/UC-79c737b1-d1b9-4134-bdd6-b302de3449a3/
+
+SQL Programming Basics
+Issued On : Oct 8, 2022
+Online Transcript : https://www.udemy.com/certificate/UC-4fae82b7-b6de-4620-a687-3aafcb511dcd/
+
+Data Warehouse Fundamentals for Beginners
+Issued On : May 22, 2023
+Online Transcript : https://www.udemy.com/certificate/UC-e41e012d-89b7-4583-9fa6-f5fa3e59655f/
+
+Scala Applied, Part 1
+Issued On : Nov 21, 2022
+Online Transcript : https://www.udemy.com/certificate/UC-d7c2a288-c120-4826-ba77-c95eccff6843/
+
+Scala Applied, Part 2
+Issued On : May 22, 2023
+Online Transcript : https://www.udemy.com/certificate/UC-341ecd5d-5cfd-4713-a68a-6ca799c0d048/
+
+Scala Applied, Part 3
+Issued On : Dec 1, 2022
+Online Transcript : https://www.udemy.com/certificate/UC-626878b2-594d-46db-9df5-0c70397ecfe3/
+
+Tableau 2022 A-Z: Hands-On Tableau Training for Data Science
+Issued On : May 22, 2023
+Online Transcript : https://www.udemy.com/certificate/UC-498b7d4d-40e7-4a73-8214-5721369e131f/
