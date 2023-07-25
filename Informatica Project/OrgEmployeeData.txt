@@ -1,0 +1,8 @@
+emp_id,emp_first,emp_last,emp_salary,dept_id
+1,'Angelina','Julie',10000,10
+2,'Mo','Salah',20000,10
+3,'Luis','Diaz',45000,20
+4,'Joel','Matip',25000,20
+5,'Andrew','Robertson',32000,30
+6,'thiago','Alcantara',50000,30
+7,'Jordan','Henderson',15000,20

@@ -1,0 +1,6 @@
+Claim_id|Member_id|Member_name|Claim_amount
+C1|M1|Member 1|55
+C2|M2|Member 2|2000
+C3|M3|Member 3|3000
+C4|M4|Member 4|4000
+C5|M1|Member one|5000

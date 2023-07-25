@@ -1,0 +1,29 @@
+-- practice
+select * from TBL_CLAIM;
+truncate table TBL_CLAIM;
+
+select * from TBL_MEMBER;
+truncate table TBL_MEMBER;
+
+select * from TBL_AUDIT;
+truncate table TBL_AUDIT;
+-- ----------------------
+-- practice3
+select * from D_employee order by emp_id, current_version;
+describe d_employee;
+truncate table d_employee;
+-- ---------------------------------------
+-- case_study2
+select * from D_employee2;
+describe d_employee2;
+truncate table d_employee2;
+
+-- practice3
+select * from D_employee;
+describe d_employee;
+truncate table d_employee;
+
+-- practice3
+select * from D_employee order by emp_id, current_version;
+describe d_employee;
+truncate table d_employee;
